@@ -1,6 +1,6 @@
 # Selenium + pytest UI Test Framework
 
-![tests](https://github.com/YOUR-USERNAME/selenium-pytest-framework/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Jazzzisn/selenium-pytest-framework/actions/workflows/tests.yml/badge.svg)
 
 Automated UI tests for the public demo shop [saucedemo.com](https://www.saucedemo.com), built with Python, Selenium and pytest using the Page Object Model.
 
